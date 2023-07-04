@@ -1,0 +1,19 @@
+header{
+    display: flex;
+}
+.topImage{
+    background-image: url("../images/home_page_top_images.svg");
+    height: 145px;
+}
+.aboutChatterOuterContainer{
+    display: flex;
+}
+.aboutChatterDiv p{
+    width: 700px;
+}
+header ul{
+    list-style: none;
+    justify-content: space-evenly;
+    width: 500px;
+    display: flex;
+}
